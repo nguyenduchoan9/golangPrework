@@ -1,3 +1,4 @@
+![Demo](http://g.recordit.co/2CduQjGd6F.gif)
 # CoderSchool Golang Course Prework Submission Template
 
 1. **Submitted by:** Arthur Nguyen
